@@ -50,6 +50,18 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
 
+# COLABORACION ♦️
+
+<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=merko)</a>
+
+------
+
+<h4> LENGUAJES </h4>
+
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
+
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
 <!--
