@@ -17,11 +17,11 @@
 > ESPERO QUE DISFRUTES DE MIS PROYECTOS Y TE SIRVA DE GRAN AYUDA <br>
 > ESPERO QUE ESTES BIEN Y QUE CREAS QUE TODO LO IMPOSIBLE QUE VEAS ES POSIBLE ✿
 <br>
+
 #### SOPORTE
 CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
-<br>
+
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
-<br>
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493795319022?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
 
 # PROYECTOS
@@ -30,15 +30,6 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 <a
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
-<a
-
-<a href="https://github.com/glytglobal/MODULOS">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal75&repo=MODULOS&theme=merko)</a>
-<a
-
-<a href="https://github.com/glytglobal/glytglobal">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=glytglobal&theme=merko)</a>
-<a
-
-<a href="https://github.com/glytglobal/GroupHelpBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=GroupHelpBot&theme=merko)</a>
 <a
 
 <!--
