@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
 <p align="center">
 <img src="https://telegra.ph/file/90ab3444c9dc1080f0350.jpg" alt="GL YT MX - OFC" width="900"/>
 </p>
@@ -47,6 +49,8 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 <a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=merko)</a>
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
