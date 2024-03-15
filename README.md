@@ -10,7 +10,7 @@
 
 ------
 
-<h1> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB. </h1>
+<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB ♦️ </h2>
 
 #### SOBRE MI 😐
 <br>
@@ -44,13 +44,13 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ------
 
-# PROYECTOS 💻
+### PROYECTOS 💻
 
 <a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=merko)</a>
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
 
-# COLABORACION ♦️
+### COLABORACION ♦️
 
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=merko)</a>
 
@@ -58,9 +58,9 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 <h4> LENGUAJES </h4>
 
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
 
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
