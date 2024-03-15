@@ -10,9 +10,9 @@
 
 ------
 
-<h1></h1> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB. </h1>
+<h1> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB. </h1>
 
-#### SOBRE MI
+#### SOBRE MI 😐
 <br>
 
 > ¡HOLA! SOY GL YT MX CREADOR O DEVELOPER DE BOTS DE TELEGRAM Y WHATSAPP. <br>
@@ -20,7 +20,7 @@
 > ESPERO QUE ESTES BIEN Y QUE CREAS QUE TODO LO IMPOSIBLE QUE VEAS ES POSIBLE ✿
 <br>
 
-#### SOPORTE
+#### SOPORTE 💫
 CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
@@ -32,19 +32,19 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=glytglobal&theme=radical&border=000000ED) 
 
-![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=glytglobal&show_icons=true&theme=radical)
+![GL YT MX macu GitHub stats](https://github-readme-stats.vercel.app/api?username=glytglobal&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5)
 
 ------ 
 
-#### VISITAS
+#### VISITAS 🌐
 
 <p align="center"><img src="https://profile-counter.glitch.me/{glytglobal}/count.svg" alt="glytglobal :: Visitor's Count" /></p>
 
 ------
 
-# PROYECTOS
+# PROYECTOS 💻
 
 <a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=merko)</a>
 
