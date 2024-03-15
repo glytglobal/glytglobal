@@ -21,7 +21,7 @@
 #### SOPORTE
 CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
-[![TELEGRAM](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
 [![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493795319022?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
 
 ------
