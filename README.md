@@ -8,8 +8,10 @@
 <br>
 #### ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB.
 <br>
+
 #### SOBRE MI
 <br>
+
 > ¡HOLA! SOY GL YT MX CREADOR O DEVELOPER DE BOTS DE TELEGRAM Y WHATSAPP.
 > ESPERO QUE DISFRUTES DE MIS PROYECTOS Y TE SIRVA DE GRAN AYUDA
 > ESPERO QUE ESTES BIEN Y QUE CREAS QUE TODO LO IMPOSIBLE QUE VEAS ES POSIBLE ✿
@@ -18,7 +20,9 @@
 CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 <br>
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
+<br>
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493795319022?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
+
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
