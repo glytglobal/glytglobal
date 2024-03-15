@@ -34,6 +34,10 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
 
+<img 
+src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
+
+
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
