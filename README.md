@@ -5,10 +5,8 @@
 <p align="center"> 
 <a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;DEVELOPJS+%E2%9A%A1" height="90px"></a> 
 </p>
-<br>
 
 #### ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB.
-<br>
 
 #### SOBRE MI
 <br>
@@ -27,10 +25,8 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 # PROYECTOS
 
 <a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=merko)</a>
-<a
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
-<a
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
