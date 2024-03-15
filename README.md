@@ -6,7 +6,7 @@
 <a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;DEVELOPJS+%E2%9A%A1" height="90px"></a> 
 </p>
 
-#### ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB.
+<h1></h1> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB. </h1>
 
 #### SOBRE MI
 <br>
@@ -28,15 +28,17 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
 
+### MI ESTADISTICAS ✨
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=glytglobal&theme=radical&border=000000ED) 
 
 ![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=glytglobal&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
 
-<img 
-src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
+#### VISITAS
 
+<p align="center"><img src="https://profile-counter.glitch.me/{glytglobal}/count.svg" alt="glytglobal :: Visitor's Count" /></p>
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
