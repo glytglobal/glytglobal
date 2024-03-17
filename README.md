@@ -47,13 +47,16 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ### PROYECTOS 💻
 
-<a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=merko)</a>
+<a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=jolly)</a>
 
-<a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
+<a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=jolly)</a>
+
+<a href="https://github.com/glytglobal/GroupHelpBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=GroupHelpBot&theme=jolly)</a>
+
 
 ### COLABORACION 🖥
 
-<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=merko)</a>
+<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=omni)</a>
 
 ------
 
