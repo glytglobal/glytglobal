@@ -2,15 +2,15 @@
 <img src="https://telegra.ph/file/90ab3444c9dc1080f0350.jpg" alt="GL YT MX - OFC" width="900"/>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=header"/>
 
 <p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;DEVELOPJS+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;DEVELOPJS+-+BOTS+%E2%9A%A1" height="90px"></a> 
 </p>
 
 ------
 
-<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB ♦️ </h2>
+<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB </h2>
 
 ------
 
@@ -51,19 +51,20 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 <a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=merko)</a>
 
-### COLABORACION ♦️
+### COLABORACION 🖥
 
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=merko)</a>
 
 ------
 
-<h4> LENGUAJES </h4>
+<h4> LENGUAJES ⚙️ </h4>
 
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
 
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
+
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
