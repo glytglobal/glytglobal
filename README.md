@@ -53,6 +53,7 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 <a href="https://github.com/glytglobal/GroupHelpBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=GroupHelpBot&theme=jolly)</a>
 
+![snake gif](https://github/glytglobal/glytglobal/blob/output/github-contrinution-grid-snake.gif)
 
 ### COLABORACION 🖥
 
@@ -67,7 +68,6 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
-
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
