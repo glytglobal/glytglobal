@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=header"/>
 
 <p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;DEVELOPJS+-+BOTS+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;CREATOR+JS+-+BOTS+%E2%9A%A1;ARGENTINA+MDK;ALOVE+YOUR+PROYECTS" height="90px"></a> 
 </p>
 
 ------
