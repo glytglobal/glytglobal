@@ -5,12 +5,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=header"/>
 
 <p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;CREATOR+JS+-+BOTS+%E2%9A%A1;ARGENTINA+MDK;ALOVE+YOUR+PROYECTS" height="90px"></a> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;~CREATOR.JS~" height="90px"></a> 
 </p>
 
 ------
 
-<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL DE GITHUB </h2>
+<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL </h2>
 
 ------
 
@@ -18,14 +18,13 @@
 
 > ¡HOLA! SOY GL YT MX CREADOR O DEVELOPER DE BOTS DE TELEGRAM Y WHATSAPP. <br>
 > ESPERO QUE DISFRUTES DE MIS PROYECTOS Y TE SIRVA DE GRAN AYUDA <br>
-> ESPERO QUE ESTES BIEN Y QUE CREAS QUE TODO LO IMPOSIBLE QUE VEAS ES POSIBLE ✿
 <br>
 
 #### SOPORTE 💫
 CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX_ASF_BOT)
-[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493795319022?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
+[![TELEGRAM](https://img.shields.io/badge/CONTACTAME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX)
+[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493794297363?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
 
 ------
 
@@ -45,23 +44,29 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ------
 
-### PROYECTOS 💻
+### MIS PROYECTOS 💻
 
-<a href="https://github.com/glytglobal/Mascota-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-Bot-MD&theme=jolly)</a>
+<a href="https://github.com/glytglobal/AvernusBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=AvernusBot-MD&theme=jolly)</a>
 
-<a href="https://github.com/glytglobal/Mascota-BotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=Mascota-BotLite-MD&theme=jolly)</a>
+<a href="https://github.com/glytglobal/TsuyuriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=TsuyuriBot-MD&theme=jolly)</a>
 
-<a href="https://github.com/glytglobal/GroupHelpBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=GroupHelpBot&theme=jolly)</a>
+<a href="https://github.com/glytglobal/TsuyuriBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=TsuyuriBot&theme=jolly)</a>
 
 ![snake gif](https://github/glytglobal/glytglobal/blob/output/github-contrinution-grid-snake.gif)
 
-### COLABORACION 🖥
+### ✨️ ESTOY COLABORANDO:
 
-<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=omni)</a>
+<a href="https://github.com/OfcDiego/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YoshikoBot-MD&theme=omni)</a>
+
+<a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=omni)</a>
+
+<a href="https://github.com/Jostin207/GokuBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin207&repo=GokuBot-MD&theme=omni)</a>
+
+<a href="https://github.com/Edwardofc/Atro-Lite-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=Atro-Lite-Bot-MD&theme=omni)</a>
 
 ------
 
-<h4> LENGUAJES ⚙️ </h4>
+<h4> LENGUAJES APRENDIDOS ⚙️ </h4>
 
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
 
