@@ -56,7 +56,7 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ### ✨️ ESTOY COLABORANDO:
 
-<a href="https://github.com/BrunoSobrino/The-Mystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=The-Mystic-Bot-MD&theme=omni)</a>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
 
 <a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=omni)</a>
 
