@@ -1,34 +1,30 @@
-<p align="center">
-<img src="https://telegra.ph/file/90ab3444c9dc1080f0350.jpg" alt="GL YT MX - OFC" width="900"/>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=header"/>
 
 <p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GL+YT+MX+OFC+%F0%9F%98%BC;~CREATOR.JS~" height="90px"></a> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=Gabriel+Velazquez+Ofc+%F0%9F%98%BC;Gracias+por+visitar+mi+perfil" height="90px"></a> 
 </p>
 
 ------
 
-<h2> ¡HOLA! BIENVENIDO(A) A MI PERFIL </h2>
+<h2> ¡HOLA! BIENVENIDO/A A MI PERFIL </h2>
 
 ------
 
-#### SOBRE MI 😐
+#### SOBRE MI:
 
-> ¡HOLA! SOY GL YT MX CREADOR O DEVELOPER DE BOTS DE TELEGRAM Y WHATSAPP. <br>
-> ESPERO QUE DISFRUTES DE MIS PROYECTOS Y TE SIRVA DE GRAN AYUDA <br>
-<br>
+> ¡HOLA! SOY GABRIEL VELAZQUEZ CREADOR DE BOTS DE TELEGRAM Y WHATSAPP <br>
+> ¡GRACIAS POR SER PARTE!<br>
 
-#### SOPORTE 💫
-CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
-
-[![TELEGRAM](https://img.shields.io/badge/CONTACTAME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GLYTMX)
-[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493794297363?text=%C2%A1HOLA%20GL%20YT%20MX%21%20VENGO%20DE%20TU%20GITHUB.)
+### REDES SOCIALES:
+|      URL       |                         APP                          |
+| :----------------: | :---------------------------------------------------: |
+[`CLICK`](https://github.com/glytglobal) | ![GitHub - Devs](https://skillicons.dev/icons?i=github)
+[`CLICK`](https://www.instagram.com/@gl_yt_1m) | ![Instagram - Devs](https://skillicons.dev/icons?i=instagram)  
+[`CLICK`](mailto:glyt.xp.contacto@gmail.com) | ![Gmail - Devs](https://skillicons.dev/icons?i=gmail) 
 
 ------
 
-### MI ESTADISTICAS ✨
+### ESTADISTICAS:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=glytglobal%20&theme=github-light&hide_border=true&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
@@ -36,41 +32,44 @@ CONTACTAME SI NECESITAS AYUDA O COMUNICARTE CONMIGO SOBRE MIS PROYECTOS Y DEMAS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5)
 
------- 
-
 #### VISITAS 🌐
 
 <p align="center"><img src="https://profile-counter.glitch.me/{glytglobal}/count.svg" alt="glytglobal :: Visitor's Count" /></p>
 
 ------
+### PROYECTOS
 
-### MIS PROYECTOS 💻
+*TODOS MIS PROYECTOS SON PARA USO DE TODOS LOS USUARIOS, QUIENES REALIZEN FALSIFICACIÓN DE MIS PROYECTOS O USO PARA MEDIOS DE LUCRO (DINERO) TENDRAN EXPULSIÓN TOTAL DE TODOS LOS PROYECTOS*
 
-<a href="https://github.com/glytglobal/AvernusBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=AvernusBot-MD&theme=jolly)</a>
+- [x] ☆ Masha - Kujou - Bot ☆
+- [ ] ☆ Alya - Kujou - Bot ☆
+- [ ] ☆ Suou - Yuki - Bot ☆
 
-<a href="https://github.com/glytglobal/TsuyuriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=TsuyuriBot-MD&theme=jolly)</a>
+> ***Nota:** Proyectos **Privados** por lo cual no cuentan con GitHub ni Repositorios Publicos*   
 
-<a href="https://github.com/glytglobal/TsuyuriBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=TsuyuriBot&theme=jolly)</a>
-
-![snake gif](https://github/glytglobal/glytglobal/blob/output/github-contrinution-grid-snake.gif)
-
-### ✨️ ESTOY COLABORANDO:
-
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
-
-<a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=omni)</a>
-
-<a href="https://github.com/Jostin207/GokuBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin207&repo=GokuBot-MD&theme=omni)</a>
-
-<a href="https://github.com/Edwardofc/Atro-Lite-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=Atro-Lite-Bot-MD&theme=omni)</a>
+### COLABORACION:
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=shadow_red)</a>
+<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-MD&theme=shadow_red)</a>
+<a href="https://github.com/David-Chian/Megumin-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=David-Chian&repo=Megumin-Bot-MD&theme=shadow_red)</a>
+<a href="https://github.com/Edwardofc/Atro-Lite-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=Atro-Lite-Bot-MD&theme=shadow_red)</a>
 
 ------
 
-<h4> LENGUAJES APRENDIDOS ⚙️ </h4>
+### LENGUAJES APRENDIDOS:
 
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
+[![GabrielVz](https://skillicons.dev/icons?i=js,php,python)](https://skillicons.dev)                             
+----
 
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
+### DEPENCIAS USADAS:
+
+|      URL       |                         LOGO                        |
+| :----------------: | :---------------------------------------------------: |
+[`CLICK`](https://github.com/glytglobal) | ![Npm - Dependencia](https://skillicons.dev/icons?i=npm)
+[`CLICK`](https://www.instagram.com/@gl_yt_1m) | ![Yarn - Dependencia](https://skillicons.dev/icons?i=yarn)
+
+> &copy; [**GabrielVz**](https://github.com/glytglobal) | Copyright:2024 <C>
+
+> GRACIAS POR VISITAR MI PERFIL
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
 
