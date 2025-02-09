@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=header"/>
 
 <p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=Gabriel+Velazquez+%F0%9F%98%BC;Gracias+por+visitar+mi+perfil" height="90px"></a> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GabrielVz+•+GitHub+Official+%F0%9F%98%BC;Creador+•+Diseñador+•+Organizador" height="90px"></a> 
 </p>
 
 ------
 
-• <b>MI INFORMACION</b>
+• <b>INFORMACION</b>
 
-> ¡HOLA! SOY GABRIEL VELAZQUEZ (GABRIELVZ/GLYTMX) SOY APRENDIZ EN PROGRAMACION DE BOTS DE WHATSAPP Y MULTIPLES PLATAFORMAS<br>
-
-> ¡ES UN GUSTO CONOCERTE!
+> DESARROLLADOR ESPECIALIZADO EN PROGRAMACION DE WHATSAPP BOTS, TELEGRAM BOTS, DISCORD BOTS Y AMBITOS DE DESARROLLO SOCIAL Y CREATIVO
 
 ----------
 
-• <b>VINCULOS</b>
+• <b>DESARROLLO</b>
+• [MAHIRU SHIINA]()
+
 
 - VERCEL (WEB) : [`ENLACE`](https://glytmx-official.vercel.app/)
 - ATOM (WEB) : [`ENLACE`](https://www.atom.bio/GabrielVz)
