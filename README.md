@@ -41,7 +41,7 @@
 
 ✓ <b>≈ ESTUDIO / TRABAJO</b>
 
-[![GabrielVz](https://skillicons.dev/icons?i=js,php,python)](https://github.com/glytglobal)
+[![GabrielVz](https://skillicons.dev/icons?i=html,css,java,js,php,python,react,nodejs,ts)](https://github.com/glytglobal)
                            
 ----------
 
