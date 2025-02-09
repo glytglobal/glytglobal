@@ -12,12 +12,6 @@
 
 ----------
 
-✓ <b>≈ PROYECTOS</b>
-- [x] RIN TOHSAKA - BOT
-- [x] MAHIRU SHIINA - BOT
-
-----------
-
 ✓ <b>≈ ESTADISTICAS</b>
 
 ![Información - Estadísticas](https://github-readme-stats.vercel.app/api?username=glytglobal\&rank_icon=github&theme=shadow_red&locale=es)
@@ -30,26 +24,30 @@
 
 ------
 
-✓ <b>≈ PROYECTOS EN COLABORACION</b>
-
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![TheMystic-Bot - Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=shadow_red)</a>
-<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![YaemoriBot - Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-MD&theme=shadow_red)</a>
-<a href="https://github.com/David-Chian/Megumin-Bot-MD">![MeguminBot - Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Chian&repo=Megumin-Bot-MD&theme=shadow_red)</a>
-<a href="https://github.com/HACHEJOTA/HachikoBot-MD">![HachikoBot - Card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=HachikoBot-MD&theme=shadow_red)</a>
+✓ <b>≈ PROYECTOS</b>
+- [x] RIN TOHSAKA - BOT
+- [x] MAHIRU SHIINA - BOT
 
 ----------
 
-• <b>APRENDIENDO</b>
+✓ <b>≈ PROYECTOS EN COLABORACION</b>
+
+- [x] STARLIGHTS-TEAM (EQUIPO)
+- [x] AI HOSHINO - MD (DANIEL.XYZ)
+- [x] HASUMI - BOT (JTXS)
+- [x] SOCK - AI (CARLOSTWT)
+
+----------
+
+✓ <b>≈ ESTUDIO / TRABAJO</b>
 
 [![GabrielVz](https://skillicons.dev/icons?i=js,php,python)](https://github.com/glytglobal)
                            
 ----------
 
-> &copy; [**GabrielVz**](https://github.com/glytglobal) | Copyright : **2024** <C>
+> &copy; [**GabrielVz**](https://github.com/glytglobal) | Copyright : **2024 - 2026** ®
 
-> GRACIAS POR VISITAR MI PERFIL
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed0909&height=120&section=footer"/>
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
