@@ -1,36 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed0909&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GabrielZks&descAlign=58&section=header&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
 
-<p align="center"> 
-<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color0000e6&width=435&lines=GabrielVz+•+GitHub+Official+%F0%9F%98%BC;Creador+•+Diseñador+•+Organizador" height="90px"></a> 
-</p>
+<h1>I'm GabrielZks</h1>
 
-------
-
-✓ <b>≈ INTRODUCCION</b>
-
-> ∆ DESARROLLADOR EXPERIMENTADO EN PROGRAMACION DE WHATSAPP BOTS, TELEGRAM BOTS, DISCORD BOTS Y AMBITOS DE DESARROLLO SOCIAL Y CREATIVO
+- My name is Gabriel Velazquez
+- I'm fourteen years old
+- Beginner programmer
+- Owner of Takanashi Hoshino Soft 
 
 ----------
 
-✓ <b>≈ ESTADISTICAS</b>
+<h3>Statistics for: GabrielZks</h3>
 
-![Información - Estadísticas](https://github-readme-stats.vercel.app/api?username=glytglobal\&rank_icon=github&theme=shadow_red&locale=es)
+![GabrielZks](https://github-readme-stats.vercel.app/api?username=glytglobal\&rank_icon=github&theme=ambient_gradient&locale=es)
 
-[![Lenguajes - Estadísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&theme=shadow_red&locale=es)](https://github.com/glytglobal)
+![GabrielZks](https://github-readme-stats.vercel.app/api/top-langs/?username=glytglobal&theme=ambient_gradient&locale=es)
 
-![Contribuciones - Estadísticas](https://github-contributor-stats.vercel.app/api?username=glytglobal&limit=7&theme=shadow_red&combine_all_yearly_contributions=true&locale=es)
+![GabrielZks](https://github-contributor-stats.vercel.app/api?username=glytglobal&limit=7&theme=ambient_gradient&combine_all_yearly_contributions=true&locale=es)
 
-<p align="center"><img src="https://profile-counter.glitch.me/{glytglobal}/count.svg" alt="Contador - Visitantes" /></p>
+----------
 
-------
+<h3>Projects: Owner</h3>
 
-✓ <b>≈ PROYECTOS</b>
 - [x] RIN TOHSAKA - BOT
 - [x] MAHIRU SHIINA - BOT
 
-----------
-
-✓ <b>≈ PROYECTOS EN COLABORACION</b>
+<h3>Projects: Collaboration</h3>
 
 - [x] STARLIGHTS-TEAM (EQUIPO)
 - [x] AI HOSHINO - MD (DANIEL.XYZ)
@@ -39,15 +33,15 @@
 
 ----------
 
-✓ <b>≈ ESTUDIO / TRABAJO</b>
+<h3>Skills for: GabrielZks</h3>
 
-[![GabrielVz](https://skillicons.dev/icons?i=html,css,java,js,php,python,react,nodejs,ts)](https://github.com/glytglobal)
+[![GabrielZks](https://skillicons.dev/icons?i=html,css,java,js,php,python,react,nodejs,ts)](https://github.com/glytglobal)
                            
 ----------
 
-> &copy; [**GabrielVz**](https://github.com/glytglobal) | Copyright : **2024 - 2026** ®
+> &copy; <b>GabrielZks</b> - All Rights Reserved.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed0909&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GabrielZks&descAlign=58&section=footer&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
