@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GabrielZks&descAlign=58&section=header&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=19b6ff&text=GabrielZks&descAlign=58&section=header&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
 
 <h1>I'm GabrielZks</h1>
 
@@ -21,27 +21,27 @@
 
 <h3>Projects: Owner</h3>
 
-- [x] RIN TOHSAKA - BOT
-- [x] MAHIRU SHIINA - BOT
+<a href="https://github.com/glytglobal/soft-tools">![GabrielZks](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=soft-tools&theme=ambient_gradient)</a>
+<a href="https://github.com/glytglobal/elements">![GabrielZks](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=elements&theme=ambient_gradient)</a>
+<a href="https://github.com/glytglobal/uploads">![GabrielZks](https://github-readme-stats.vercel.app/api/pin/?username=glytglobal&repo=uploads&theme=ambient_gradient)</a>
+
 
 <h3>Projects: Collaboration</h3>
 
-- [x] STARLIGHTS-TEAM (EQUIPO)
-- [x] AI HOSHINO - MD (DANIEL.XYZ)
-- [x] HASUMI - BOT (JTXS)
-- [x] SOCK - AI (CARLOSTWT)
+<a href="https://github.com/fg98f/dylux-bot">![GabrielZks](https://github-readme-stats.vercel.app/api/pin/?username=fg98f&repo=dylux-bot&theme=ambient_gradient)</a>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![GabrielZks](https://github-readme-stats.vercel.app/api/pin/?username=brunosobrino&repo=themystic-bot-md&theme=ambient_gradient)</a>
 
 ----------
 
 <h3>Skills for: GabrielZks</h3>
 
-[![GabrielZks](https://skillicons.dev/icons?i=html,css,java,js,php,python,react,nodejs,ts)](https://github.com/glytglobal)
+[![GabrielZks](https://skillicons.dev/icons?i=html,vite,java,js,php,python,react,nodejs,ts)](https://github.com/glytglobal)
                            
 ----------
 
 > &copy; <b>GabrielZks</b> - All Rights Reserved.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GabrielZks&descAlign=58&section=footer&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=19b6ff&text=GabrielZks&descAlign=58&section=footer&descAlignY=0&textBg=false&fontColor=black&fontAlign=50&desc=Developer%20Soft"/>
 
 <!--
 **glytglobal/glytglobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
